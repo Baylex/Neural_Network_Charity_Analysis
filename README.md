@@ -41,5 +41,4 @@ Columns were reviewed and the STATUS and SPECIAL_CONSIDERATIONS columns were dro
 ![Pic 3](https://github.com/Baylex/Neural_Network_Charity_Analysis/blob/main/Image/Dev3.PNG)    
 
 ### Summary: 
-The relu and sigmoid activations yielded a 72.7% accuracy, which is the best the model could produce using various number of neurons and layers.  
-The next step should be to try the random forest classifier as it is less influenced by outliers.  
+The relu and sigmoid activations yielded a 72.7% accuracy, which is the best the model could produce using various number of neurons and layers.  The next step should be to try the random forest classifier as it is less influenced by outliers.  
