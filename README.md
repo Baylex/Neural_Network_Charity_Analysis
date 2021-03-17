@@ -42,3 +42,8 @@ Columns were reviewed and the STATUS and SPECIAL_CONSIDERATIONS columns were dro
 
 ### Summary:   
 The relu and sigmoid activations yielded a 72.7% accuracy, which is the best the model could produce using various number of neurons and layers.  The next step should be to try the random forest classifier as it is less influenced by outliers.  
+
+-----
+Notes:
+better defined purpose statement
+run it on epoch = 50
