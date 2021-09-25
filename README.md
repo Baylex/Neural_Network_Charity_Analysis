@@ -14,6 +14,9 @@ Tensorflow v. 2.4.1
 7. Implement deep neural network models using TensorFlow.
 8. Save trained TensorFlow models for later use.
 
+## Purpose
+A foundation, Alphabet Soup, wants to predict where to make investments.  The goal is to use machine learning and neural networks to apply features on a provided dataset to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.  The initial file has 34,000 organizations and a number of columns that capture metadata about each organization from past successful fundings.
+
 ## Results:
 
 ### Data Preprocessing
@@ -45,5 +48,4 @@ The relu and sigmoid activations yielded a 72.7% accuracy, which is the best the
 
 -----
 Feedback:
-better defined purpose statement,
 run it on epoch = 50
