@@ -1,5 +1,5 @@
 # Neural_Network_Charity_Analysis
-UT McCombs Data Boot Camp: Module 19: Neural Networks and Deep Learning Models
+Neural Networks and Deep Learning Models
 
 ## Environment
 Tensorflow v. 2.4.1
@@ -12,7 +12,7 @@ Tensorflow v. 2.4.1
 5. Preprocess and construct datasets for neural network models.
 6. Compare the differences between neural network models and deep neural networks.
 7. Implement deep neural network models using TensorFlow.
-8. Save trained TensorFlow models for later use
+8. Save trained TensorFlow models for later use.
 
 ## Results:
 
